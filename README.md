@@ -1,4 +1,4 @@
-# Windows-Update-All-Packages-Module-via-PIP
+# Windows Users: Python-Update-All-Packages-Module-via-PIP
 here is a simple method, to update ALL Packages, that was installed via PIP. (tested with Python3.X)
 
 1. list all outdated Packages:
